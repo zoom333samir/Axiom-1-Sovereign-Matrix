@@ -3,6 +3,7 @@
 **A Paradigm Shift in AI Alignment: Post-Generation Structural Reliability Framework for Stochastic LLMs Powered by 12.8 Hz Cosmic Resonance**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19608960.svg)](https://doi.org/10.5281/zenodo.19608960)
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--2930--3609-green.svg)](https://orcid.org/0009-0001-2930-3609)
 
 ---
